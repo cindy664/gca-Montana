@@ -13,6 +13,7 @@
     "partner_id": "0014T00000ZyjUlQAJ",
     "programName": "UM Global Career Accelerator",
     "termsandConditionsPolicy": "https://www.umt.edu/about/privacy/",
+    "registrationMessage": "Registration is now open.",
     "credits": "6 Montana credits",
     "startDate": "May 18",
     "endDate": "July 24"
@@ -21,6 +22,7 @@
     "item": "about",
     "schoolname": "University of Montana",
     "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "32 Campus Drive\r\nMissoula, MT 59812",
     "abbreviation": "Montana",
     "phone": "(406) 247-0472",
     "credits": "6 Montana credits",
@@ -28,78 +30,78 @@
     "seasonYear": "Summer 2026",
     "term": "Summer",
     "season": "Summer",
-    "registrationMessage": "2026 Summer registration is now open."
+    "registrationMessage": "Registration is now open."
   },
   {
     "item": "explore-tracks",
     "credits": "6 Montana credits",
     "abbreviation": "Montana",
-    "registrationMessage": "2026 Summer registration is now open."
+    "registrationMessage": "Registration is now open."
   },
   {
     "item": "digital-marketing",
     "schoolname": "University of Montana",
     "trackTitle": "Digital Marketing Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 18",
-    "endDate": "July 24",
     "credits": "6 Montana credits",
     "abbreviation": "Montana",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "BGEN 291",
-    "courseCode2": "GBLD 398"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BGEN 291 (CRN: CRN 50620)",
+    "courseCode2": "GBLD 398 (CRN: 50533)",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 18",
+    "endDate": "July 24"
   },
   {
     "item": "coding-for-web",
     "schoolname": "University of Montana",
     "trackTitle": "Web Development for Everyone Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 18",
-    "endDate": "July 24",
     "credits": "6 Montana credits",
     "abbreviation": "Montana",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "BGEN 291",
-    "courseCode2": "GBLD 398"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BGEN 291 (CRN: CRN 50620)",
+    "courseCode2": "GBLD 398 (CRN: 50533)",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 18",
+    "endDate": "July 24"
   },
   {
     "item": "data-analytics",
     "schoolname": "University of Montana",
     "trackTitle": "Data Analytics Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 18",
-    "endDate": "July 24",
     "credits": "6 Montana credits",
     "abbreviation": "Montana",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "BGEN 291",
-    "courseCode2": "GBLD 398"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BGEN 291 (CRN: CRN 50620)",
+    "courseCode2": "GBLD 398 (CRN: 50533)",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 18",
+    "endDate": "July 24"
   },
   {
     "item": "coding-for-data",
     "schoolname": "University of Montana",
     "trackTitle": "Coding for Data Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 18",
-    "endDate": "July 24",
     "credits": "6 Montana credits",
     "abbreviation": "Montana",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "BGEN 291",
-    "courseCode2": "GBLD 398"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BGEN 291 (CRN: CRN 50620)",
+    "courseCode2": "GBLD 398 (CRN: 50533)",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 18",
+    "endDate": "July 24"
   },
   {
     "item": "career-rotation",
     "schoolname": "University of Montana",
     "trackTitle": "Career Rotation Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 18",
-    "endDate": "July 24",
     "credits": "6 Montana credits",
     "abbreviation": "Montana",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "BGEN 291",
-    "courseCode2": "GBLD 398"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BGEN 291 (CRN: CRN 50620)",
+    "courseCode2": "GBLD 398 (CRN: 50533)",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 18",
+    "endDate": "July 24"
   },
   {
     "item": "reserve-a-seat",
